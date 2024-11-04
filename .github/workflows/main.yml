@@ -3,7 +3,8 @@ name: Create Release on Tag
 on:
   push:
     tags:
-      - "v*.*.*"
+      - "v*.*.*"  
+      - "literally hell"
 
 jobs:
   build:

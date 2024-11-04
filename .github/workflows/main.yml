@@ -4,7 +4,7 @@ on:
   push:
     tags:
       - "v*.*.*"  
-      - "literally hell"
+      - "v***"
 
 jobs:
   build:
